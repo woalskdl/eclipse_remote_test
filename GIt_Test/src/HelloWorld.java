@@ -5,7 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Hello World New Branch!");
 		
-		System.out.println("test for commit crash (branch)");
+		System.out.println("test for commit crash");
 		
 	}
 }
